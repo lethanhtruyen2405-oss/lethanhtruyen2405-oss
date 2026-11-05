@@ -1,46 +1,40 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Lê%20Thanh%20Truyền&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20@%20UIT%20–%20VNU-HCM&descAlignY=58&descSize=18" />
+  <img src="banner.gif" width="100%" alt="Lê Thanh Truyền banner" />
 </p>
 
-<!-- Typing -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Learning+Data+Analytics+📊;Building+Web+Apps+🌐;Exploring+Linux+%26+Security+🔐" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="40%" valign="top">
+  <img src="art.gif" width="100%" alt="Terminal artwork" />
+</td>
+<td width="60%" valign="top">
+
+### 👋 Lê Thanh Truyền
+🇻🇳 Ho Chi Minh City, Vietnam  
+🎓 3rd-year IT Student @ UIT – VNU-HCM
+
+**📊 Data Analytics** &nbsp;•&nbsp; **🌐 Web Development**  
+**🐧 Linux & Shell** &nbsp;•&nbsp; **🔐 Security**
 
 ---
 
-## 👨‍💻 About Me
+**🚀 Currently working on**
+- Operating Systems labs (C, Shell script)
+- SQL & Database fundamentals
+- Personal projects – coming soon!
 
-```js
-const truyen = {
-  school:    "University of Information Technology – VNU-HCM",
-  year:      3,
-  learning:  ["Data Analytics", "Web Development", "Linux & Shell", "Information Security"],
-  nowDoing:  "Operating Systems labs & SQL fundamentals",
-  contact:   "lethanhtruyen2405@gmail.com"
-};
-```
+---
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,linux,bash,git,github,vscode&theme=dark&perline=11" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,linux,bash,git,vscode&perline=5" />
 
-## 📈 GitHub Activity
+📫 lethanhtruyen2405@gmail.com
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lethanhtruyen2405-oss&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lethanhtruyen2405-oss&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a2f9e,100:0b84ff&height=100&section=footer" width="100%" />
 </p>
