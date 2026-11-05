@@ -35,6 +35,28 @@
 </tr>
 </table>
 
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍷 [Wine Data Analysis](https://github.com/lethanhtruyen2405-oss/wine-data-analysis)
+Exploratory analysis of the UCI Wine dataset: data quality checks, correlation, PCA and a Random Forest model that identifies the grape cultivar with **96.7% accuracy**.
+
+`Python` `pandas` `seaborn` `scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/lethanhtruyen2405-oss/wine-data-analysis">
+  <img src="https://raw.githubusercontent.com/lethanhtruyen2405-oss/wine-data-analysis/main/images/04_pca_scatter.png" width="100%" alt="PCA scatter of wine cultivars" />
+</a>
+
+</td>
+</tr>
+</table>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a2f9e,100:0b84ff&height=100&section=footer" width="100%" />
 </p>
